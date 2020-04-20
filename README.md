@@ -3,7 +3,7 @@ An Archive of Reconstruction Algorithms for Compressive Sensing and Compressive 
 
 ## 2020
 
-**PnP-SCI **: **Plug-and-play Algorithms for Large-scale Snapshot Compressive Imaging** in ***IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*** 2020 (**Oral**) by [Xin Yuan](https://www.bell-labs.com/usr/x.yuan), [Yang Liu](https://liuyang12.github.io/), [Jinli Suo](https://sites.google.com/site/suojinli/), and [Qionghai Dai](http://media.au.tsinghua.edu.cn/). [[pdf\]](https://arxiv.org/pdf/2003.13654) [[github\]](https://github.com/liuyang12/PnP-SCI) [[arXiv\]](https://arxiv.org/abs/2003.13654)
+**PnP-SCI**: **Plug-and-play Algorithms for Large-scale Snapshot Compressive Imaging** in ***IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*** 2020 (**Oral**) by [Xin Yuan](https://www.bell-labs.com/usr/x.yuan), [Yang Liu](https://liuyang12.github.io/), [Jinli Suo](https://sites.google.com/site/suojinli/), and [Qionghai Dai](http://media.au.tsinghua.edu.cn/). [[pdf\]](https://arxiv.org/pdf/2003.13654) [[github\]](https://github.com/liuyang12/PnP-SCI) [[arXiv\]](https://arxiv.org/abs/2003.13654)
 
 
 
