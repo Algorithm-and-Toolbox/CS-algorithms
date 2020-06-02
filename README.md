@@ -1,6 +1,17 @@
 # CS-CI-algorithms
 An Archive of Reconstruction Algorithms for Compressive Sensing and Compressive Imaging
 
+## Table of Contents
+
+- [2020](#2020)
+- [2019](#2019)
+- [2007](#2007)
+- [Others](#others)
+- [Category](#category)
+  * [3D CS](#3d-cs)
+  * [Deep learning based CS](#deep-learning-based-cs)
+- [Note](#note)
+
 ## 2020
 
 **PnP-SCI**: **Plug-and-play Algorithms for Large-scale Snapshot Compressive Imaging** in ***IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*** 2020 (**Oral**) by [Xin Yuan](https://www.bell-labs.com/usr/x.yuan), [Yang Liu](https://liuyang12.github.io/), [Jinli Suo](https://sites.google.com/site/suojinli/), and [Qionghai Dai](http://media.au.tsinghua.edu.cn/). [[pdf\]](https://arxiv.org/pdf/2003.13654) [[github\]](https://github.com/liuyang12/PnP-SCI) [[arXiv\]](https://arxiv.org/abs/2003.13654)
@@ -32,6 +43,16 @@ An Archive of Reconstruction Algorithms for Compressive Sensing and Compressive 
 **DL_CACTI**: A comparison of state-of-the-art algorithms for snapshot compressive imaging(SCI), including  two iteration-based reconstruction algorithms, [GAP-TV](https://ieeexplore.ieee.org/abstract/document/7532817) and [DeSCI](https://ieeexplore.ieee.org/abstract/document/8481592),  and two deep-leaning-based algorithms, [PnP-FFDNet](https://arxiv.org/pdf/1710.04026.pdf) and End-to-End convolutional neural network (E2E-CNN), for video SCI. **Deep Learning for Video Compressive Sensing**  in ***APL Photonics 5, 030801 (2020)*** by Mu Qiao\*, Ziyi Meng\*, Jiawei Ma, [Xin Yuan](https://www.bell-labs.com/usr/x.yuan) (*Equal contributions). [[pdf\]](https://aip.scitation.org/doi/pdf/10.1063/1.5140721?download=true) [[github\]](https://github.com/mq0829/DL-CACTI)
 
 
+
+## Category
+
+### 3D CS
+
+**3DCS**: Three-dimensional (3D) compressive sensing algorithms: towards real-time volumetric imaging, provided by  [Yang Liu](https://github.com/liuyang12).  [[github]](https://github.com/liuyang12/3DCS)
+
+### Deep learning based CS
+
+**Reproducible Deep Compressive Sensing**: Collection of source code for deep learning-based compressive sensing (DCS). Links for source code, pdf, doi are available.Collection of reproducible deep learning for compressive sensing, provided by [Thuong Nguyen](https://github.com/ngcthuong). [[github]](https://github.com/ngcthuong/Reproducible-Deep-Compressive-Sensing)
 
 ## Note
 
