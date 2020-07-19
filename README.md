@@ -18,7 +18,9 @@ An Archive of Reconstruction Algorithms for Compressive Sensing and Compressive 
 
 **E2E-CNN**: **Deep Learning for Video Compressive Sensing**  in ***APL Photonics 5, 030801 (2020)*** by Mu Qiao\*, Ziyi Meng\*, Jiawei Ma, [Xin Yuan](https://www.bell-labs.com/usr/x.yuan) (*Equal contributions). [[pdf\]](https://aip.scitation.org/doi/pdf/10.1063/1.5140721?download=true) [[github\]](https://github.com/mq0829/DL-CACTI)
 
+**BIRNAT: Bidirectional Recurrent Neural Networks with Adversarial Training for Video Snapshot Compressive Imaging** (***The European Conference on Computer Vision*** 2020) by [Ziheng Cheng](https://github.com/zihengcheng), Ruiying Lu, Zhengjue Wang, Hao Zhang, [Bo Chen](https://web.xidian.edu.cn/bchen/), Ziyi Meng and [Xin Yuan](https://www.bell-labs.com/usr/x.yuan). [[github]](https://github.com/BoChenGroup/BIRNAT)
 
+**TSA-Net for CASSI: End-to-End Low Cost Compressive Spectral Imaging with Spatial-Spectral Self-Attention** (***ECCV (2020)***) by [Ziyi Meng*](https://github.com/mengziyi64), [Jiawei Ma*](https://github.com/Phoenix-V), [Xin Yuan](https://www.bell-labs.com/usr/x.yuan) (*Equal contributions). [[pdf]](https://github.com/mengziyi64/TSA-Net/blob/master) [[github]](https://github.com/mengziyi64/TSA-Net)
 
 ## 2019
 
@@ -28,7 +30,7 @@ An Archive of Reconstruction Algorithms for Compressive Sensing and Compressive 
 
 ## 2009
 
-**FISAT**: **A Fast Iterative Shrinkage-Thresholding Algorithm for Linear Inverse Problems** (*SIAM J. Img. Sci. 2, 1*) by Amir Beck and Marc Teboulle, January 2009.[[pdf]](https://dl.acm.org/doi/10.1137/080716542) [[doi]](https://doi.org/10.1137/080716542) [[code_matlab]](https://github.com/tiepvupsu/FISTA) [[code_python]](https://github.com/JeanKossaifi/FISTA)
+**FISAT**: **A Fast Iterative Shrinkage-Thresholding Algorithm for Linear Inverse Problems** (*SIAM J. Img. Sci. 2, 1*) by Amir Beck and Marc Teboulle, January 2009.[[pdf]](https://dl.acm.org/doi/10.1137/080716542) [[doi]](https://doi.org/10.1137/080716542) [[code_matlab]](https://github.com/tiepvupsu/FISTA) [[code_python]](https://github.com/JeanKossaifi/FISTA) [code2](https://github.com/sandeepbanik/Image-denoise-and-TV-solver)
 
 
 
