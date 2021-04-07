@@ -14,7 +14,7 @@ An Archive of Reconstruction Algorithms for Compressive Sensing and Compressive 
 
 ## 2020
 
-**PnP-SCI**: **Plug-and-play Algorithms for Large-scale Snapshot Compressive Imaging** in ***IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*** 2020 (**Oral**) by [Xin Yuan](https://www.bell-labs.com/usr/x.yuan), [Yang Liu](https://liuyang12.github.io/), [Jinli Suo](https://sites.google.com/site/suojinli/), and [Qionghai Dai](http://media.au.tsinghua.edu.cn/). [[pdf\]](https://arxiv.org/pdf/2003.13654) [[github\]](https://github.com/liuyang12/PnP-SCI) [[arXiv\]](https://arxiv.org/abs/2003.13654)
+**PnP-SCI**: **Plug-and-play Algorithms for Large-scale Snapshot Compressive Imaging** in ***IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*** 2020 (**Oral**) by [Xin Yuan](https://www.bell-labs.com/usr/x.yuan), [Yang Liu](https://liuyang12.github.io/), [Jinli Suo](https://sites.google.com/site/suojinli/), and [Qionghai Dai](http://media.au.tsinghua.edu.cn/). [[pdf\]](https://arxiv.org/pdf/2003.13654) [[code_matlab\]](https://github.com/liuyang12/PnP-SCI) [[code_python\]](https://github.com/liuyang12/PnP-SCI_python) [[arXiv\]](https://arxiv.org/abs/2003.13654)
 
 **E2E-CNN**: **Deep Learning for Video Compressive Sensing**  in ***APL Photonics 5, 030801 (2020)*** by Mu Qiao\*, Ziyi Meng\*, Jiawei Ma, [Xin Yuan](https://www.bell-labs.com/usr/x.yuan) (*Equal contributions). [[pdf\]](https://aip.scitation.org/doi/pdf/10.1063/1.5140721?download=true) [[github\]](https://github.com/mq0829/DL-CACTI)
 
@@ -30,7 +30,7 @@ An Archive of Reconstruction Algorithms for Compressive Sensing and Compressive 
 
 ## 2009
 
-**FISAT**: **A Fast Iterative Shrinkage-Thresholding Algorithm for Linear Inverse Problems** (*SIAM J. Img. Sci. 2, 1*) by Amir Beck and Marc Teboulle, January 2009.[[pdf]](https://dl.acm.org/doi/10.1137/080716542) [[doi]](https://doi.org/10.1137/080716542) [[code_matlab]](https://github.com/tiepvupsu/FISTA) [[code_python]](https://github.com/JeanKossaifi/FISTA) [code2](https://github.com/sandeepbanik/Image-denoise-and-TV-solver)
+**ISTA&FISAT**: **A Fast Iterative Shrinkage-Thresholding Algorithm for Linear Inverse Problems** (*SIAM J. Img. Sci. 2, 1*) by Amir Beck and Marc Teboulle, January 2009.[[pdf]](https://dl.acm.org/doi/10.1137/080716542) [[doi]](https://doi.org/10.1137/080716542) [[code_matlab]](https://github.com/tiepvupsu/FISTA) [[code_python]](https://github.com/JeanKossaifi/FISTA) [[code2\]](https://github.com/sandeepbanik/Image-denoise-and-TV-solver)
 
 
 
@@ -39,8 +39,6 @@ An Archive of Reconstruction Algorithms for Compressive Sensing and Compressive 
 **TwIST**: **Two-Step Iterative Shrinkage/Thresholding Algorithms for Image Restoration)** in ***IEEE Transactions on Image processing*** 2007 by J. Bioucas-Dias and [M. Figueiredo](http://www.lx.it.pt/~mtf/). [[code](http://www.lx.it.pt/~bioucas/code.htm)]
 
 **GPSR**: **Gradient Projection  for Sparse  Reconstruction** in ***IEEE Journal of Selected Topics in Signal Processing*** 2007 by [Mário Figueiredo](http://www.lx.it.pt/~mtf), [Robert D. Nowak](http://www.ece.wisc.edu/~nowak/) and  [Stephen J. Wright](http://www.cs.wisc.edu/~swright/). [[code](http://www.lx.it.pt/~mtf/GPSR/)]
-
-
 
 
 
