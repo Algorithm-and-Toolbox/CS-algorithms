@@ -1,0 +1,27 @@
+
+OMPSBox Frequently Asked Questions
+-----------------------------------
+
+
+Q. Your package does not work! I get an error like this:
+
+??? Attempt to execute SCRIPT ompsbox\private\dictsepmex as a function:
+C:\............................................\ompsbox\private\dictsepmex.m
+
+Error in ==> dictsep at 31
+x = dictsepmex(Bsep,A,Gamma);
+
+Error in ==> omps at 145
+    atomnorms(i) = sum(dictsep(B,A,gamma(:,i)).^2);
+
+A. OMPSBox comes as source code, and requires compilation. Please read the README file
+and follow the directions - it is actually quite easy.
+
+
+
+Q. Your package does not compile/run/work on my system.
+
+A. Well, unfortunately I only have access to a limited number of system configurations.
+So, if you are experiencing an error on your system, please let me know! These things
+can usually be corrected easily - for everyone's benefit.
+
