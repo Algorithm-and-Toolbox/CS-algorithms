@@ -21,6 +21,8 @@ An Archive of Reconstruction Algorithms for Compressive Sensing and Compressive 
     [KSVD-Box v13](./[ToolBox]/ksvdbox&omp/ksvdbox13/) Implementation of the K-SVD and Approximate K-SVD dictionary training algorithms, and the K-SVD Denoising algorithm [[ref](http://www.cs.technion.ac.il/~ronrubin/Publications/KSVD-OMP-v2.pdf)]. Requires OMP-Box v10.
 
     [KSVDS-Box v11](./[ToolBox]/ksvdbox&omp/ksvdsbox11/) Implementation of the sparse K-SVD dictionary training algorithm and the sparse K-SVD Denoising algorithm [[ref](http://www.cs.technion.ac.il/~ronrubin/Publications/sparsedict.pdf)]. Requires OMPS-Box v1. The package is also available without the demo volumes (less recommended) at at [KSVDS-Box v11-min](http://www.cs.technion.ac.il/~ronrubin/Software/ksvdsbox11-min.zip).
+  
+- **Dictionary Learning Tools for Matlab** : A [toolbox](https://www.ux.uis.no/~karlsk/dle/) for dictionary learning by [Karl Skretting](https://www.ux.uis.no/~karlsk/), University of Stavanger.
 
 
 
