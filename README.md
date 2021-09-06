@@ -8,6 +8,9 @@ An Archive of Reconstruction Algorithms for Compressive Sensing and Compressive 
 - **GPSR**: Gradient Projection  for Sparse  Reconstruction in *IEEE Journal of Selected Topics in Signal Processing* 2007 by [Mário Figueiredo](http://www.lx.it.pt/~mtf), [Robert D. Nowak](http://www.ece.wisc.edu/~nowak/) and  [Stephen J. Wright](http://www.cs.wisc.edu/~swright/). [[code](http://www.lx.it.pt/~mtf/GPSR/)]
 - **OMP_SP_IHT_CoSaMP_GBP_IRLS**: A collection of "CS Recovery Algorithms containing OMP, SP, IHT, CoSaMP, GBP and IRLS" provided by [Chengfu Huo](http://home.ustc.edu.cn/~roy)
 - **TVAL3** : TV Minimization by Augmented Lagrangian and Alternating Direction Algorithms, by Chengbo Li and Yin Zhang [[code]](https://www.caam.rice.edu/~optimization/L1/TVAL3/)
+- **l1magic**: a collection of MATLAB routines for solving the convex optimization programs central to compressive sampling. The algorithms are based on standard interior-point methods, and are suitable for large-scale problems [[code]](https://statweb.stanford.edu/~candes/software/l1magic/)
+- **SLOPE**: R and MATLAB packages implementing SLOPE, or *Sorted L-One Penalized Estimation*. The sorted L1 norm is useful for statistical estimation and testing, particularly for variable selection in the linear model. [[code]](https://statweb.stanford.edu/~candes/software/SortedL1/software.html)
+- **NESTA**: A Fast and Accurate First-order Method for Sparse Recovery. [[code]](https://statweb.stanford.edu/~candes/software/nesta/)
 - **3DCS**: Three-dimensional (3D) compressive sensing algorithms: towards real-time volumetric imaging, by [Yang Liu](https://github.com/liuyang12) [[code]](https://github.com/liuyang12/3DCS)
 
 
@@ -25,6 +28,8 @@ An Archive of Reconstruction Algorithms for Compressive Sensing and Compressive 
     [KSVDS-Box v11](./[ToolBox]/ksvdbox&omp/ksvdsbox11/) Implementation of the sparse K-SVD dictionary training algorithm and the sparse K-SVD Denoising algorithm [[ref](http://www.cs.technion.ac.il/~ronrubin/Publications/sparsedict.pdf)]. Requires OMPS-Box v1. The package is also available without the demo volumes (less recommended) at at [KSVDS-Box v11-min](http://www.cs.technion.ac.il/~ronrubin/Software/ksvdsbox11-min.zip).
   
 - **Dictionary Learning Tools for Matlab** : A [toolbox](https://www.ux.uis.no/~karlsk/dle/) for dictionary learning by [Karl Skretting](https://www.ux.uis.no/~karlsk/), University of Stavanger.
+
+- **CVX**: a Matlab-based convex modeling framework [[web]](http://cvxr.com/cvx)
 
 
 
