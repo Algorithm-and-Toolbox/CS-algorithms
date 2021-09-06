@@ -7,6 +7,8 @@ An Archive of Reconstruction Algorithms for Compressive Sensing and Compressive 
 - **TwIST**: Two-Step Iterative Shrinkage/Thresholding Algorithms for Image Restoration) in *IEEE Transactions on Image processing* 2007 by J. Bioucas-Dias and [M. Figueiredo](http://www.lx.it.pt/~mtf/). [[code](http://www.lx.it.pt/~bioucas/code.htm)]
 - **GPSR**: Gradient Projection  for Sparse  Reconstruction in *IEEE Journal of Selected Topics in Signal Processing* 2007 by [Mário Figueiredo](http://www.lx.it.pt/~mtf), [Robert D. Nowak](http://www.ece.wisc.edu/~nowak/) and  [Stephen J. Wright](http://www.cs.wisc.edu/~swright/). [[code](http://www.lx.it.pt/~mtf/GPSR/)]
 - **OMP_SP_IHT_CoSaMP_GBP_IRLS**: A collection of "CS Recovery Algorithms containing OMP, SP, IHT, CoSaMP, GBP and IRLS" provided by [Chengfu Huo](http://home.ustc.edu.cn/~roy)
+- **TVAL3** : TV Minimization by Augmented Lagrangian and Alternating Direction Algorithms, by Chengbo Li and Yin Zhang [[code]](https://www.caam.rice.edu/~optimization/L1/TVAL3/)
+- **3DCS**: Three-dimensional (3D) compressive sensing algorithms: towards real-time volumetric imaging, by [Yang Liu](https://github.com/liuyang12) [[code]](https://github.com/liuyang12/3DCS)
 
 
 
